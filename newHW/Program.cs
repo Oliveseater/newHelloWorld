@@ -14,12 +14,12 @@ namespace newHW
             Console.WriteLine("Введите А");
             a = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Введите В");
-            //b = Convert.ToInt32(Console.ReadLine());
+            b = Convert.ToInt32(Console.ReadLine());
             //Console.WriteLine(a + b);
             //Console.WriteLine(a - b);
             //Console.WriteLine(a * b);
-            //Console.WriteLine(a / b);
-            //Console.ReadKey();
+            Console.WriteLine(a / b);
+            Console.ReadKey();
         }
     }
 }
