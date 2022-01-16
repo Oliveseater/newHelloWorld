@@ -1,0 +1,8 @@
+C:\Users\eevni\Documents\TRPO\newHelloworld\newHW\bin\Debug\newHW.exe.config
+C:\Users\eevni\Documents\TRPO\newHelloworld\newHW\bin\Debug\newHW.exe
+C:\Users\eevni\Documents\TRPO\newHelloworld\newHW\bin\Debug\newHW.pdb
+C:\Users\eevni\Documents\TRPO\newHelloworld\newHW\obj\Debug\newHW.csproj.AssemblyReference.cache
+C:\Users\eevni\Documents\TRPO\newHelloworld\newHW\obj\Debug\newHW.csproj.SuggestedBindingRedirects.cache
+C:\Users\eevni\Documents\TRPO\newHelloworld\newHW\obj\Debug\newHW.csproj.CoreCompileInputs.cache
+C:\Users\eevni\Documents\TRPO\newHelloworld\newHW\obj\Debug\newHW.exe
+C:\Users\eevni\Documents\TRPO\newHelloworld\newHW\obj\Debug\newHW.pdb
