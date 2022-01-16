@@ -17,8 +17,8 @@ namespace newHW
             b = Convert.ToInt32(Console.ReadLine());
             //Console.WriteLine(a + b);
             //Console.WriteLine(a - b);
-            //Console.WriteLine(a * b);
-            Console.WriteLine(a / b);
+            Console.WriteLine(a * b);
+            //Console.WriteLine(a / b);
             Console.ReadKey();
         }
     }
